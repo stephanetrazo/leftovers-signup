@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8adbce0e-14ad-4c1c-91b8-0b6849dba3e4/deploy-status)](https://app.netlify.com/sites/leftovers-signup/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/64c3ca65-2930-4e8f-a774-b5a7c10227eb/deploy-status)](https://app.netlify.com/sites/leftovers-signup/deploys)
 
 ## Links
 
